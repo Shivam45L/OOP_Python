@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Health Insurance Premium Prediction
 
 ## Project structure
@@ -24,3 +25,6 @@ The backend keeps the same feature order and encoding as the supplied Streamlit 
 where female = 1, male = 0, yes smoker = 1, and no smoker = 0.
 
 Only load pickle files you trust. For consistent results, use a compatible scikit-learn version with the one used when the model was trained.
+=======
+# OOP_Python
+>>>>>>> ba176c94d72c96c6d1360c6daae9d47a67858dc0
